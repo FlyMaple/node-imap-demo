@@ -11,6 +11,10 @@
   "dependencies": {
     "bufferhelper": "^0.2.1",
     "imap": "^0.8.19",
-    "mailparser": "^2.0.5"
+    "mailparser": "^2.0.5",
+    "body-parser": "^1.15.2",
+    "express": "^4.15.2",
+    "node-fetch": "^1.6.3",
+    "request": "^2.81.0"
   }
 }
