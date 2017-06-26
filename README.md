@@ -6,7 +6,7 @@
 2. set your imap configure
 3. node .
 
-#主要套件
+# 主要套件
 
 [ node-imap ]
 
