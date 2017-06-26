@@ -2,6 +2,10 @@
 
 ## 本篇文章只有記錄 IMAP 的使用方式，POP3 代補
 
+1. npm install -l
+2. set your imap configure
+3. node .
+
 #主要套件
 
 [ node-imap ]
