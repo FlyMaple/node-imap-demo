@@ -270,7 +270,7 @@ function getPartBodies(struct) {
 
 [ inspect ]
 
-const inspect = require('util').inspect;
+`const inspect = require('util').inspect;`
 http://www.runoob.com/nodejs/nodejs-util.html
 
 # 參考資料
